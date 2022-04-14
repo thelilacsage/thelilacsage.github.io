@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Bon Appétit!分享胃口大開的心路歷程
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/logo.png
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+一個突發奇想，被某美食部落客的心得激發，覺得要把自己日常吃食記錄下來。
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+不為別人，就是為了日益衰老的自己，記性不佳，容易忘記當下美食的美味，想要記錄下來，提供未來的自己做參考。
 
+這是一個紀錄不小心胃口太好，狂吃東西的小天地，用小天地聽起來心智年齡可能只有16歲，不過照這樣來看的話應該是正確的年齡。
