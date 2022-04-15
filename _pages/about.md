@@ -3,7 +3,7 @@ layout: page
 title: Bon Appétit!分享胃口大開的心路歷程
 permalink: /about
 comments: false
-image: assets/images/big_logo.png
+image: assets/images/big_logo.PNG
 imageshadow: true
 ---
 
