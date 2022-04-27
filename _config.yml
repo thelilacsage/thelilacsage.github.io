@@ -46,7 +46,6 @@ jekyll-archives:
   enabled:
     - categories
   layout: archive
-  comments: true
   permalinks:
     category: '/category/:name/'
 
