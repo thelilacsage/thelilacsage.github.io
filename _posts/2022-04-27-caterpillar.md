@@ -4,7 +4,7 @@ title:  "毛毛蟲麵包 - 青春的滋味"
 author: lilac
 categories: [碗盤朝天]
 tags: [Food, LA, Houston]
-image: /assets/images/caterpillar/caterpillar_oh_my_pan.jpg
+image: assets/images/caterpillar/caterpillar_oh_my_pan.jpg
 description: "毛毛蟲麵包，又稱奶露麵包"
 ---
 
@@ -43,9 +43,9 @@ Houston真的太遠了，總不能想吃毛毛蟲麵包就跑去Houston，歪腦
 
 如果有也喜歡吃毛毛蟲麵包的同好，歡迎留言分享，你在這個世界的角落哪裡也遇到了毛毛蟲麵包呢？
 
-我問過一輪跟我同個大學的朋友們，他們是否在學校有吃過毛毛蟲麵包，結果大家竟然都沒有人吃過，看來毛毛蟲麵包真的不是一個普遍的食物呢:sweat:
+我問過一輪跟我同個大學的朋友們，他們是否在學校有吃過毛毛蟲麵包，結果大家竟然都沒有人吃過，看來毛毛蟲麵包真的不是一個普遍的食物呢 :sweat:
 
-身為毛毛蟲麵包推廣大使，期待可以找到更多店有供應毛毛蟲麵包，跟喜歡吃毛毛蟲麵包的人們:innocent:
+身為毛毛蟲麵包推廣大使，期待可以找到更多店有供應毛毛蟲麵包，跟喜歡吃毛毛蟲麵包的人們 :innocent:
 
 
 ## 店舖資訊
